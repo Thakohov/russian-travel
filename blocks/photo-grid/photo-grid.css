@@ -28,7 +28,7 @@
 @media screen and (max-width: 767px) {
     .photo-grid {
         max-width: 288px;
-        max-height: 2724px; 
+        max-height: 2724px;
         grid-template-columns: repeat(1, 288px);
         grid-template-rows: repeat(12, 216px);
     }
