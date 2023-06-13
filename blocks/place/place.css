@@ -1,28 +1,26 @@
 .place {
-    max-width: 984px;
-    max-height: 660px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    row-gap: 48px;
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  row-gap: 48px;
 }
 
 @media screen and (max-width: 1279px) {
-    .place {
-        max-width: 928px;
-    }
+  .place {
+    max-width: 928px;
+  }
 }
 
 @media screen and (max-width: 1023px) {
-    .place {
-        max-width: 720px;
-    }
+  .place {
+    max-width: 720px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .place {
-        max-width: 100%;
-        max-height: 1042px;
-        display: block;
-    }
+  .place {
+    max-width: 100%;
+    display: block;
+  }
 }

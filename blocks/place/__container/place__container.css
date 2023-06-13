@@ -1,15 +1,15 @@
 .place__container {
-    display: flex;
-    flex-direction: column;
-    gap: 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
 }
 
 .place__container:nth-last-child(5) {
-    row-gap: 0;
+  row-gap: 0;
 }
 
 @media screen and (max-width: 767px) {
-    .place__container {
-        margin: 0 auto;
-    }
+  .place__container {
+    margin: 0 auto;
+  }
 }
