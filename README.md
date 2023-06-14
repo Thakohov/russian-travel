@@ -16,3 +16,5 @@
 - Flexbox вёрстка
 - Файловая структура проекта по правилам Nested БЭМ
 - Grid Layout
+## Ссылка на проект
+https://thakohov.github.io/russian-travel/
