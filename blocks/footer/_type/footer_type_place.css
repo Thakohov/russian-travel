@@ -1,15 +1,15 @@
-.footer__place {
+.footer_type_place {
   margin: 92px auto 0;
 }
 
 @media screen and (max-width: 767px) {
-  .footer__place {
+  .footer_type_place {
     margin: 88px auto 0;
   }
 }
 
 @media screen and (max-width: 321px) {
-  .footer__place {
+  .footer_type_place {
     margin: 64px 118px 0 16px;
   }
 }
